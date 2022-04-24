@@ -178,5 +178,4 @@
 ![Looker](https://shields.io/badge/Looker-white?logo=looker&style=for-the-badge&color=black)
 
 <hr>
-#### CREDITS
-_README design inspired by @formidablae_
+<b>CREDITS: </b><i>README design inspired by @formidablae</i>
