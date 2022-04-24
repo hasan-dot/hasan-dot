@@ -175,7 +175,6 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Serverless](https://shields.io/badge/serverless-black?logo=serverless&style=for-the-badge)
 ![Looker](https://shields.io/badge/Looker-white?logo=looker&style=for-the-badge&color=black)
-![Looker](https://shields.io/badge/Looker-white?logo=looker&style=for-the-badge&color=black)
 
 <hr>
 <b>CREDITS: </b><i>README design inspired by @formidablae</i>
