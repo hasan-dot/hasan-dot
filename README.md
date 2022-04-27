@@ -7,7 +7,7 @@
 	TODO: ADD Something about myself
 </h4> -->
 <hr>
-
+<!-- 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=hasan-dot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&hide=stars" />
 </p>
@@ -18,7 +18,7 @@
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-dot&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
+</p> -->
 
 <!--- <h4 align="center">Most used languages by Lines of Code (in the last year only)</h4>
 <p align="center">
